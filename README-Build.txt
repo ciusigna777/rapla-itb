@@ -47,3 +47,5 @@ Pass the target as a parameter to ant
 e.g. build.sh dist-bin
 				   
 For a complete list of all targets use the -projecthelp option
+
+Ini adalah perubahan dalam percobaan untuk mata kuliah evolusi perangkat lunak
